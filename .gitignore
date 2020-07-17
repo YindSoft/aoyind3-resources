@@ -1,0 +1,14 @@
+*.log
+*.vbw
+*.oca
+*.csi
+*.lvw
+*.OBJ
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.stackdump
+*.rar
+*.zip
